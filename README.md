@@ -5,7 +5,7 @@ Visualizing the IOOS Vocabulary terms and their mappings is a key step in making
 
 ### Development Demo
 
-IOOS Parameter Vocabulary Visualizer
+IOOS Parameter Vocabulary Visualizer [orrviz.py](http://152.2.174.2:8010/orrviz.py) temporary address to change
 
 ### Running Demo Locally
 
