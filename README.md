@@ -1,7 +1,7 @@
 ioos-vocabulary-viz
 ===================
 
-Visualizing the IOOS Vocabulary terms and their mappings is a key step in making registered vocabs on MMI ORR more useful. This demostration GUI shows how to use the power of SPARQL and dynamic web-page development to allow users to see general to more specific relationships between terms as mapped using simple skos relationships (exactMatch, closeMatch, narrowMatch and broadMatch).  
+This GUI is a demonstration of a dyanmic web tool (CGI) used to create SPARQL queries to MMI Ontology Registry and Repository (ORR) for the purpose of visualizing the IOOS Vocabulary terms and their mappings.  Being able to  is a key step in making registered vocabs on MMI ORR more useful. This demostration GUI lets users see and investigate vocabulary terms and their context based on simple skos mappings (exactMatch, closeMatch, narrowMatch and broadMatch) to other like terms or broader concepts.  
 
 ### Demonstration of orrviz.py
 
